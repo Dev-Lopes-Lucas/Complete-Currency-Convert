@@ -16,7 +16,7 @@
 
 .content-div {
     width: 500px;
-    height: 500px;
+    height: 600px;
     background-color: blue;
     align-self: center;
     border-radius: 25px;
@@ -64,8 +64,9 @@
 .convert-button{
     margin-top: 30px;
     width: 400px;
-    height: 40px;
+    height: 80px;
     margin-left:50px;
+    font-size: 50px;
 
 }
 
